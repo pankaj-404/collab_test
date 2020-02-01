@@ -1,0 +1,8 @@
+total 24K
+-rw-r--r-- 1 user user    0 Feb  1 15:27 end
+-rw-r--r-- 1 user user   26 Feb  1 10:44 file_1.txt
+-rw-r--r-- 1 user user   26 Feb  1 10:47 file_2.txt
+-rw-r--r-- 1 user user   15 Feb  1 10:33 name.txt
+-rw-r--r-- 1 user user   29 Feb  1 10:03 start
+drwxr-xr-x 2 user user 4.0K Feb  1 10:18 user1
+drwxr-xr-x 2 user user 4.0K Feb  1 10:14 user2
